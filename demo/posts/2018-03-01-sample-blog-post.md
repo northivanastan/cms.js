@@ -1,10 +1,9 @@
 ---
 
-Title: Software Projects to Watch
-Excerpt: Projects that are missing things, but I am nonetheless keeping tabs to see where they go.
-Layout: post
-Date: Nov 21 2018
-Image: /assets/coding2.jpg
+title: Software Projects to Watch
+excerpt: Projects that are missing things, but I am nonetheless keeping tabs to see where they go.
+layout: post
+date: Nov 21 2018
 
 ---
 
